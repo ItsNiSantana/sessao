@@ -15,6 +15,5 @@
                 echo "<li><a> Olá ". $_SESSION['login']['nome']."</a></li>";
                 endif;
             ?>
-
         </ul>
     </div>
